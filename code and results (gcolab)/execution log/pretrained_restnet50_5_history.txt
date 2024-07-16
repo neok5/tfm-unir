@@ -1,0 +1,16 @@
+	Start training [ 2021-09-08 18:53:45 ]
+
+Epoch 1/5
+2500/2500 [==============================] - 750s 289ms/step - loss: 0.7192 - accuracy: 0.4045 - val_loss: 0.4999 - val_accuracy: 0.7738
+Epoch 2/5
+2500/2500 [==============================] - 732s 293ms/step - loss: 0.5714 - accuracy: 0.6489 - val_loss: 0.3811 - val_accuracy: 0.8578
+Epoch 3/5
+2500/2500 [==============================] - 734s 293ms/step - loss: 0.4508 - accuracy: 0.7535 - val_loss: 0.2763 - val_accuracy: 0.9022
+Epoch 4/5
+2500/2500 [==============================] - 734s 294ms/step - loss: 0.3336 - accuracy: 0.8171 - val_loss: 0.1814 - val_accuracy: 0.9230
+Epoch 5/5
+2500/2500 [==============================] - 733s 293ms/step - loss: 0.2352 - accuracy: 0.8572 - val_loss: 0.1222 - val_accuracy: 0.9291
+
+	End training [ 2021-09-08 19:55:10 ]
+
+	Total training time: 1:01:24
